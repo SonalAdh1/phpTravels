@@ -1,0 +1,6 @@
+18:22:11.989 [main] INFO  - Element is visible
+18:22:13.570 [main] INFO  - 1 Item removed from cart
+18:22:14.823 [main] ERROR - The promotion code entered does not exist
+18:22:18.638 [main] INFO  - Element is visible
+18:22:18.736 [main] INFO  - Registration form filled.
+18:22:19.527 [main] ERROR - Verification of captcha failed!
